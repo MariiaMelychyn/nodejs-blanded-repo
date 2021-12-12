@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-blanded-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js petro=pizza maria=privet",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariiaMelychyn/nodejs-blanded-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariiaMelychyn/nodejs-blanded-repo/issues"
+  },
+  "homepage": "https://github.com/MariiaMelychyn/nodejs-blanded-repo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
